@@ -21,10 +21,10 @@ timezone: America/Sao_Paulo
 
 title: rosthanlinux                        # the main title
 
-tagline: Um lugar confortável para dividir conhecimento   # it will display as the sub-title
+tagline: 🏛 Arquitetura, 🛡️ SRE & ♾️ DevOps.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  🏛 Arquitetura, 🛡️ SRE & ♾️ DevOps.
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
