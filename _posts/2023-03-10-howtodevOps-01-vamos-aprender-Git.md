@@ -4,7 +4,7 @@ date: 2023-03-10 18:33:00 +0800
 categories: [howtodevops, git]
 tags: [howtodevops]     # TAG names should always be lowercase
 image:
-  path: /assets/img/headers/git01.png
+  path: https://blog.knoldus.com/wp-content/uploads/2020/05/cover-first-steps-git.png
   alt: HowToGit
 ---
 
@@ -18,7 +18,7 @@ O Git é um sistema de controle de versão distribuído amplamente utilizado que
 
 ## O que é o GitFlow?
 
-![gitflow](/assets/img/headers/git01.png)
+![gitflow](https://codigomaromba.files.wordpress.com/2019/01/gitflow-1.png)
 
 O GitFlow é um modelo de ramificação para o Git, desenvolvido por Vincent Driessen, que facilita o gerenciamento de projetos complexos com várias ramificações. O GitFlow define um conjunto de diretrizes claras para o fluxo de trabalho do Git, envolvendo duas ramificações principais: master e develop, além de ramificações de recursos, lançamentos e correções.
 
