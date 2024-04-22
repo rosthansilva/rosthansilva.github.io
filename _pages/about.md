@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Sobre
+title: Sobre Mim
 permalink: /Sobre/
 image: rosthan_e_valentim.png
 ---
 
 
-# Sobre Mim
-
 ---
-
 **Olá! Meu nome é Rosthan, e sou um especialista em DevOps apaixonado por tecnologia e inovação.** Com uma carreira dedicada à excelência operacional e à automação de processos, tenho o compromisso de transformar a infraestrutura de TI e as práticas de desenvolvimento de software.
 
 Minha jornada começou no coração da programação, onde rapidamente percebi que minha verdadeira vocação estava na interseção entre o desenvolvimento e a operação. A filosofia DevOps ressoou com meus ideais de colaboração, eficiência e entrega contínua de valor.
