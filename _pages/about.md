@@ -1,26 +1,25 @@
 ---
 layout: page
-title: About
-permalink: /about/
-image: 01.jpg
+title: Sobre
+permalink: /Sobre/
+image: rosthan_e_valentim.png
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
 
-***
+# Sobre Mim
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+---
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+**Olá! Meu nome é Rosthan, e sou um especialista em DevOps apaixonado por tecnologia e inovação.** Com uma carreira dedicada à excelência operacional e à automação de processos, tenho o compromisso de transformar a infraestrutura de TI e as práticas de desenvolvimento de software.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+Minha jornada começou no coração da programação, onde rapidamente percebi que minha verdadeira vocação estava na interseção entre o desenvolvimento e a operação. A filosofia DevOps ressoou com meus ideais de colaboração, eficiência e entrega contínua de valor.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+Ao longo dos anos, adquiri uma vasta experiência em ferramentas e práticas essenciais para a integração e entrega contínuas (CI/CD), automação de infraestrutura, monitoramento e orquestração de contêineres. **Minha expertise abrange tecnologias como Docker, Kubernetes, Ansible e Terraform**, e estou sempre em busca das últimas tendências e inovações no campo de DevOps.
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+**Como mentor**, me dedico a compartilhar meu conhecimento e experiência com profissionais que desejam se aprofundar no universo de DevOps, SRE e Engenharia de Plataforma/Cloud. Acredito firmemente que a educação é a chave para o empoderamento e o crescimento profissional, e é por isso que criei um programa de mentoria exclusivo.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+Neste programa, você encontrará um ambiente de aprendizado imersivo, onde a teoria e a prática se entrelaçam para fornecer uma compreensão profunda dos desafios e soluções do mundo real. **Meu objetivo é não apenas ensinar, mas inspirar e capacitar cada indivíduo a alcançar novos patamares em suas carreiras.**
+
+**Junte-se a mim nessa jornada transformadora e torne-se um pioneiro no campo de DevOps.** Vamos juntos construir um futuro mais ágil e inovador!
+
+---
