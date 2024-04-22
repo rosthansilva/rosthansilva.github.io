@@ -8,8 +8,34 @@ image: htd_id.jpeg
 
 # Mentoria DevOps com Rosthan Silva
 
-Este curso se destina a quem realmente deseja aprender.
-A prática da aula com turmas reduzidas prioriza o aprendizado prático, com 80% do tempo dedicado a atividades que garantem a fixação dos conceitos. Nesse ambiente intimista, cada aluno recebe atenção individualizada, permitindo uma abordagem mais personalizada e adaptada às necessidades específicas de cada um. A interação próxima com o instrutor facilita o esclarecimento de dúvidas e a aplicação imediata dos conhecimentos adquiridos, tornando a aprendizagem mais eficaz e significativa.
+<!-- Esta Mentoria se destina a quem realmente deseja aprender independente de Nível ou Senioridade.
+Unimos a proximodade dos alunos com o mestre para maximizar o ganho e absorção do conhecimento. 
+
+O foco é ter uma imersão nos conteúdos com exemplos reais do dia a dia sempre simulando problemas e tarefas que certamente um DevOps, SRE ou Engenheiro de Plataforma ou Cloud enfrentaria em seu dia a dia.
+
+A prática da aula com turmas reduzidas prioriza o aprendizado prático, com 80% do tempo dedicado a atividades que garantem a fixação dos conceitos. Nesse ambiente intimista, cada aluno recebe atenção individualizada, permitindo uma abordagem mais personalizada e adaptada às necessidades específicas de cada um. A interação próxima com o instrutor facilita o esclarecimento de dúvidas e a aplicação imediata dos conhecimentos adquiridos, tornando a aprendizagem mais eficaz e significativa. -->
+
+Claro, ficarei feliz em ajudar a aprimorar o texto do anúncio da sua mentoria. Aqui está uma versão revisada:
+
+---
+
+**Transforme sua carreira com nossa Mentoria Exclusiva para DevOps, SRE e Engenheiros de Plataforma/Cloud!**
+
+Se você está buscando um aprendizado profundo e prático que transcenda os níveis tradicionais de ensino, nossa mentoria é a escolha perfeita. Com um modelo de ensino que valoriza a proximidade entre aluno e mentor, garantimos um processo de aprendizagem acelerado e eficaz.
+
+Nossa abordagem é centrada na **imersão total**: mergulhe em conteúdos ricos com exemplos tirados diretamente dos desafios reais do mercado. Prepare-se para enfrentar e resolver problemas complexos que são o dia a dia dos profissionais mais requisitados da área.
+
+Com turmas reduzidas, priorizamos uma experiência de aprendizado única, onde **80% do tempo é dedicado à prática**. Este formato garante não apenas a compreensão, mas a **mastery** dos conceitos mais importantes. Em um ambiente acolhedor, cada participante recebe atenção personalizada, assegurando que o ensino seja moldado às suas necessidades individuais.
+
+A interação direta e constante com o instrutor potencializa o esclarecimento de dúvidas e a aplicação imediata do conhecimento. Com nossa mentoria, você não apenas aprende: você **evolui**.
+
+**Junte-se a nós e seja pioneiro em sua jornada para o sucesso!**
+
+---
+
+## Programação da Mentoria
+
+![Mentoria how To DevOps](/images/logo2.png)
 
 ## Definição e Conceitos Básicos
 
@@ -82,4 +108,6 @@ A prática da aula com turmas reduzidas prioriza o aprendizado prático, com 80%
  <a href="https://wa.me/21966326414">
 <img border="0" target="_blank" alt="whatspapp" src="https://seeklogo.com/images/W/whatsapp-logo-33F6A82887-seeklogo.com.png"   width="100" height="100">
 </a> 
+<br />
+Clique para saber mais
 </p>
