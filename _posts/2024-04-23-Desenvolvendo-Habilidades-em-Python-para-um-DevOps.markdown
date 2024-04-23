@@ -2,7 +2,7 @@
 layout: post
 title:  "Desenvolvendo Habilidades em Python para um DevOps"
 permalink: /Desenvolvimento/Python/Desenvolvendo-Habilidades-em-Python-para-um-DevOps
-date:   2024-23-04 18:05:55 +0300
+date:   2024-04-23 18:05:55 +0300
 image: https://blog.geekhunter.com.br/wp-content/uploads/2022/02/linguagem-python-1024x579-1.jpg
 tags:   Carreira
 ---
