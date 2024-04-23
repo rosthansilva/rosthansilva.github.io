@@ -15,8 +15,6 @@ O foco é ter uma imersão nos conteúdos com exemplos reais do dia a dia sempre
 
 A prática da aula com turmas reduzidas prioriza o aprendizado prático, com 80% do tempo dedicado a atividades que garantem a fixação dos conceitos. Nesse ambiente intimista, cada aluno recebe atenção individualizada, permitindo uma abordagem mais personalizada e adaptada às necessidades específicas de cada um. A interação próxima com o instrutor facilita o esclarecimento de dúvidas e a aplicação imediata dos conhecimentos adquiridos, tornando a aprendizagem mais eficaz e significativa. -->
 
-Claro, ficarei feliz em ajudar a aprimorar o texto do anúncio da sua mentoria. Aqui está uma versão revisada:
-
 ---
 
 **Transforme sua carreira com nossa Mentoria Exclusiva para DevOps, SRE e Engenheiros de Plataforma/Cloud!**
