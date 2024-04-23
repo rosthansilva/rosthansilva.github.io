@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aws Transit Gateway - Uma Relação de amor e ódio - Parte: 01"
+title:  "AWS Transit Gateway - Uma Relação de amor e ódio - Parte: 01"
 permalink: /posts/aws/Aws-Transit-Gateway-Uma-Relacao-de-amor-e-odio
 date:   2024-04-23 18:05:55 +0300
 image:  aws_tgw.png
