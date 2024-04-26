@@ -3,7 +3,7 @@ layout: post
 title:  "AWS Network Basic - Aprendendo sobre VPCs e Subnets"
 permalink: /posts/aws/AWS-Network-Basic
 date: 2024-04-26
-image: /images/vpc/AWS-VPC.png
+image: vpc/AWS-VPC.png
 tags: aws
 ---
 
