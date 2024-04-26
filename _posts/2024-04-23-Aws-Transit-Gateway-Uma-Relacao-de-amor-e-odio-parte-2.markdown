@@ -3,10 +3,12 @@ layout: post
 title:  "AWS Transit Gateway - Uma Relação de amor e ódio - Parte: 02"
 permalink: /posts/aws/Aws-Transit-Gateway-Uma-Relacao-de-amor-e-odio2
 date:   2024-04-24 18:05:55 +0300
-image:  aws_tgw.png
+image:  image_tg2.png
 tags:   aws
 ---
 # AWS Transit Gateway - Uma Relação de Amor e Ódio - Parte 2
+
+![](images/tgw_001.png)
 
 Na parte 1 desta série, exploramos os benefícios e desafios do uso do AWS Transit Gateway. Agora, na parte 2, vamos nos aprofundar nas interações do Transit Gateway com VPN e Direct Connect em cenários de multi-account com on-premises.
 
