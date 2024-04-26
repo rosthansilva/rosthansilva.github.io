@@ -64,15 +64,17 @@ Esses cinco endereços IP reservados podem impactar a forma como você projeta s
 
 
 
-1. **Gateway de Internet**: Para ativar a conectividade com a internet para sua VPC, você deve criar um gateway de internet. Pense no gateway como um modem. Assim como um modem conecta seu computador à internet, o gateway de internet conecta sua VPC à internet. Ao contrário do seu modem em casa, que às vezes fica offline, um gateway de internet é altamente disponível e escalável. Depois de criar um gateway de internet, você o associa à sua VPC.
+**Gateway de Internet**: Para ativar a conectividade com a internet para sua VPC, você deve criar um gateway de internet. Pense no gateway como um modem. Assim como um modem conecta seu computador à internet, o gateway de internet conecta sua VPC à internet. Ao contrário do seu modem em casa, que às vezes fica offline, um gateway de internet é altamente disponível e escalável. Depois de criar um gateway de internet, você o associa à sua VPC.
 
 ![](/images/vpc/internet_gateway.png)
 
-2. **Gateway privado virtual**: Um gateway privado virtual conecta sua VPC a outra rede privada. Ao criar e associar um gateway privado virtual a uma VPC, o gateway atua como âncora no lado da AWS da conexão. No outro lado da conexão, você precisará conectar um gateway de cliente à outra rede privada. Um dispositivo de gateway de cliente é um dispositivo físico ou aplicativo de software no seu lado da conexão. Quando você tem ambos os gateways, você pode então estabelecer uma conexão de rede privada virtual (VPN) criptografada entre os dois lados.
+**Gateway privado virtual**
+
+ Um gateway privado virtual conecta sua VPC a outra rede privada. Ao criar e associar um gateway privado virtual a uma VPC, o gateway atua como âncora no lado da AWS da conexão. No outro lado da conexão, você precisará conectar um gateway de cliente à outra rede privada. Um dispositivo de gateway de cliente é um dispositivo físico ou aplicativo de software no seu lado da conexão. Quando você tem ambos os gateways, você pode então estabelecer uma conexão de rede privada virtual (VPN) criptografada entre os dois lados.
 
 ![](/images/vpc/virtual_private-gateway.png)
 
-AWS Direct Connect**
+**AWS Direct Connect**
 
 ![](/images/vpc/direct_connect.png)
 
