@@ -10,7 +10,7 @@ tags:   aws
 
 # Protegendo e Segurando Aplicações com Serviços da AWS - Parte 1
 
-Esse texto é um review de um requisito da certificação SAA-03 - Projetar cargas de trabalho e aplicações seguras
+> Esse texto é um review de um requisito da certificação SAA-03 - Projetar cargas de trabalho e aplicações seguras
 
 Na era digital, a segurança de aplicações é uma preocupação crucial para garantir a integridade e confiabilidade dos sistemas. A Amazon Web Services (AWS) oferece uma variedade de serviços que podem ser integrados para proteger suas aplicações contra ameaças cibernéticas. Vamos explorar como integrar serviços como AWS Shield, AWS WAF, IAM Identity Center e AWS Secrets Manager para reforçar a segurança das suas aplicações na AWS.
 
