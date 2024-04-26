@@ -73,4 +73,33 @@ Com a integração desses serviços, você pode reforçar a segurança das suas 
 
 ---
 
+# Unindo os pontos
+
+Agora você deve estar pensando "como eu junto isso tudo ?". Relaxa, vamo cai de cabeça em um estudod e caso rapido pra deixar tudo bem claro.
+## Estudo de Caso: Aplicação de E-commerce com Segurança Avançada na AWS
+
+Imagine uma aplicação de e-commerce em rápido crescimento que precisa garantir a segurança e integridade dos dados dos clientes. Para atender a essas necessidades, a empresa decide utilizar os recursos de segurança da AWS, incluindo AWS Shield, AWS WAF, IAM Identity Center e AWS Secrets Manager.
+
+### Arquitetura da Aplicação
+
+A aplicação de e-commerce é hospedada em instâncias EC2 e usa um banco de dados RDS para armazenar informações dos clientes. A aplicação também utiliza o CloudFront como CDN para acelerar a entrega de conteúdo estático e o Application Load Balancer (ALB) para distribuir o tráfego entre as instâncias EC2.
+
+### Implementação da Segurança
+
+1. **AWS Shield**: O AWS Shield é configurado para proteger a aplicação contra ataques DDoS. O AWS Shield Standard está em uso para proteção automática contra os ataques mais comuns, enquanto o AWS Shield Advanced é configurado para oferecer proteção adicional contra ataques mais sofisticados.
+
+2. **AWS WAF**: O AWS WAF é usado para proteger a aplicação contra ataques web comuns, como injeção de SQL e XSS. São criadas regras personalizadas no AWS WAF para filtrar e bloquear o tráfego malicioso antes que ele alcance a aplicação.
+
+3. **IAM Identity Center**: O IAM Identity Center é usado para gerenciar identidades e acessos dos usuários da aplicação. São criados usuários, grupos e papéis no IAM, e são definidas políticas de acesso granulares para controlar quem pode acessar quais recursos da AWS.
+
+4. **AWS Secrets Manager**: O AWS Secrets Manager é utilizado para gerenciar as chaves de criptografia e outras informações sensíveis, como chaves de API e tokens. As informações sensíveis são armazenadas de forma segura e são acessadas pela aplicação usando o AWS Secrets Manager.
+
+### Benefícios Obtidos
+
+- **Segurança Avançada**: A aplicação está protegida contra ataques DDoS e ataques web comuns, garantindo a segurança e integridade dos dados dos clientes.
+- **Controle de Acesso Granular**: O IAM Identity Center permite controlar quem pode acessar quais recursos da AWS, garantindo que apenas usuários autorizados tenham acesso aos dados sensíveis.
+- **Gestão Centralizada de Segredos**: O AWS Secrets Manager simplifica a gestão de chaves de criptografia e outras informações sensíveis, garantindo que elas sejam armazenadas e acessadas de forma segura.
+
+Em resumo, a utilização dos recursos de segurança da AWS, como AWS Shield, AWS WAF, IAM Identity Center e AWS Secrets Manager, permitiu que a aplicação de e-commerce garantisse a segurança e integridade dos dados dos clientes, garantindo uma experiência segura e confiável para os usuários.
+
 ---
