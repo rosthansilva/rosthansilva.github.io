@@ -35,7 +35,7 @@ Você pode iniciar recursos da AWS, como instâncias EC2, em uma sub-rede espec�
 
 Ao iniciar uma instância EC2, você a inicia dentro de uma sub-rede, que estará localizada dentro da Zona de Disponibilidade que você escolher.
 
-**Parte 3: Alta Disponibilidade com uma VPC**
+### Alta Disponibilidade com uma VPC
 
 
 ![](/images/vpc/vpc_azs.png)
