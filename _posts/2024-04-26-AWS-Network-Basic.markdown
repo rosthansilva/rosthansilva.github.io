@@ -83,14 +83,13 @@ Para estabelecer uma conexão física segura entre seu data center local e sua A
 Com o AWS Direct Connect, o tráfego da sua rede permanece na rede global da AWS e nunca toca a internet pública.
 
 
-
 Compreender a Amazon VPC e seus componentes é fundamental para projetar e implementar uma infraestrutura de rede segura e altamente disponível na AWS. Esperamos que este post tenha sido útil para entender melhor como a Amazon VPC funciona e como você pode usá-la para criar redes isoladas na nuvem da AWS.
 
 Para mais informações, consulte a documentação oficial da AWS sobre a Amazon VPC e seus componentes. E fique atento para mais conteúdo sobre arquitetura na AWS em nosso blog.
 
 ### Recursos 
 
-AWS user guide: [What Is Amazon VPC?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
-AWS user guide: [How Amazon VPC Works](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html)
-AWS user guide: [How AWS Site-to-Site VPN Works](https://docs.aws.amazon.com/vpn/latest/s2svpn/how_it_works.html)
-AWS user guide: [What Is AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)?
+- AWS user guide: [What Is Amazon VPC?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- AWS user guide: [How Amazon VPC Works](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html)
+- AWS user guide: [How AWS Site-to-Site VPN Works](https://docs.aws.amazon.com/vpn/latest/s2svpn/how_it_works.html)
+- AWS user guide: [What Is AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)?
