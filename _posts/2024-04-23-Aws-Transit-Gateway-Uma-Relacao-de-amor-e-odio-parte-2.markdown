@@ -26,6 +26,8 @@ Para configurar a integração com o Direct Connect, é necessário primeiro est
 
 ## Vamo de Case : Arquitetura de Multi Contas com Transit Gateway Compartilhado: Estudo de Caso
 
+![](/images/image_tg2.png)
+
 ### Introdução
 
 Em um ambiente de nuvem cada vez mais complexo, garantir a conectividade entre diferentes ambientes e a segurança dos dados é fundamental. Neste estudo de caso, vamos explorar uma arquitetura de multi contas na AWS, utilizando um Transit Gateway compartilhado para os ambientes de desenvolvimento (non prod) e produção (prod), com conexão com on-premises via Direct Connect e VPN como backup. A aplicação é executada em containers gerenciados pelo Amazon ECS.
@@ -36,7 +38,7 @@ Uma empresa de tecnologia está migrando suas aplicações para a AWS e deseja u
 
 ### Componentes da Arquitetura
 
-![](/images/image_tg2.png)
+
 
 1. **Transit Gateway Compartilhado**: Um único Transit Gateway será compartilhado entre as contas de desenvolvimento e produção. O Transit Gateway é um serviço que simplifica a conectividade entre redes VPC e on-premises.
 
