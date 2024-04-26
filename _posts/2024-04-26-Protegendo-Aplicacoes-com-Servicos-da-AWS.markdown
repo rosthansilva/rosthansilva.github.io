@@ -2,7 +2,7 @@
 layout: post
 title:  "Protegendo e Segurando Aplicações com Serviços da AWS - Parte 1"
 permalink: /posts/aws/Protegendo-Aplicações-com-Serviços-da-AWS-Parte-1
-date:   2024-04-26
+date:   2024-04-26 13:05:55 +0300
 image:  2024-04-26-Protegendo-Aplicações-com-Serviços-da-AWS.png
 tags:   aws
 ---
