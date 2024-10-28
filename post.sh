@@ -33,3 +33,5 @@ tags:   $tag
 EOF
 
 echo "Arquivo '$markdown_file' criado com sucesso!"
+
+code $markdown_file
