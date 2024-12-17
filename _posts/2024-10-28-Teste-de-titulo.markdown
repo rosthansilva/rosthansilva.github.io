@@ -17,7 +17,7 @@ Desde que botei os pés na área de TI, um mantra ressoa nas entrelinhas de fór
 
 Comecemos com o clássico: o *DevOps*. Lá nos primórdios, quando essa filosofia (ou metodologia, dependendo do seu palestrante preferido) começou a ser adotada, a promessa era clara: ia acabar com operações. Tudo seria código! Tudo seria ágil! E, claro, a automação resolveria todos os problemas com um passe de mágica.  
 
-Fast-forward pra realidade: hoje, aquela tarefa que antes levava cinco minutos e dois comandos no terminal virou uma maratona de mil horas. Afinal, temos que configurar pipelines, alinhar com o time, validar o processo, passar em todas as esteiras do CI/CD... Ah, e não esqueça do *"approval process"* na ferramenta de integração que jura que tá ajudando.
+Fast-forward pra realidade: hoje, aquela tarefa que antes levava cinco minutos e dois comandos no terminal virou uma maratona de mil horas, 10 war rooms e algumas sprints de atraso. Afinal, temos que configurar pipelines, alinhar com o time, validar o processo, passar em todas as esteiras do CI/CD... Ah, e não esqueça do *"approval process"* na ferramenta de integração que jura que tá ajudando.
 
 ## Cloud: o golpe da nuvem (literalmente)
 
@@ -37,6 +37,6 @@ Mas, no meio de tantas promessas revolucionárias, sabe o que realmente acabou? 
 
 ---
 
-## Conclusão: o sonho continua  
+## O sonho continua  
 
 No fim das contas, enquanto a tecnologia sonha em acabar com tudo, a realidade tá aí: a gente ainda tá tentando resolver o básico sem enlouquecer com as contas de cloud e as demandas do Jira. Então, que venha a próxima promessa revolucionária! Só espero que ela não acabe com meu café, porque aí sim é o fim.  
