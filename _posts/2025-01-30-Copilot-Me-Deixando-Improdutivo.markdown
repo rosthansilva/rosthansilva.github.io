@@ -31,7 +31,6 @@ Mas logo percebi que algumas coisas que eu estava delegando pra IA **eram absurd
 
 Coisas que, em vez de me ajudar, estavam **me deixando mais lento**.  
 
----
 
 ## **O Mito do “Prompt Melhor”**  
 
@@ -55,7 +54,6 @@ Se for pra gastar esse tempo **dando explicação**, **é mais rápido eu resolv
 
 E é aí que eu percebi…  
 
----
 
 ## **Quando a IA Atrapalha Mais do Que Ajuda**  
 
@@ -87,7 +85,6 @@ Já eu? Faço **rápido**.
 
 **E funciona de primeira.**  
 
----
 
 ## **Quando a IA Cria Problemas Que Não Existiam**  
 
@@ -102,7 +99,6 @@ Eu só queria trocar um “i” por um “o”, e o desgraçado reinventou o SOL
 
 A essa altura, já estava claro que a IA **estava me fazendo perder tempo, e não ganhar**.  
 
----
 
 ## **Reflexões de um Ex-Viciado em IA**  
 
@@ -130,7 +126,6 @@ Mas tem coisas que **não valem a pena delegar**:
 - **Coisas que exigem muito contexto** (a IA sempre erra ou complica demais).  
 - **Código que precisa estar certo de primeira** (evito retrabalho).  
 
----
 
 ## **Chega de IA (Por Enquanto)**  
 
@@ -148,7 +143,6 @@ Se um dia o Copilot melhorar a ponto de não precisar **reexplicar tudo a cada p
 
 Mas até lá, prefiro confiar **nos meus próprios neurônios.**  
 
----
 
 ## **E Você?**  
 
