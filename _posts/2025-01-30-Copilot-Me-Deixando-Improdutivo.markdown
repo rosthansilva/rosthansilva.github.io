@@ -7,12 +7,9 @@ image:  2025-01-30-Copilot-Me-Deixando-Improdutivo.png
 tags:   ia, produtividade, dev, vscode, copilot
 ---
 
-
 # O Copilot Está Me Deixando **Improdutivo?**  
 
-# O Copilot Está Me Deixando **Improdutivo?**  
-
-O GitHub Copilot na minha empresa cai **toda hora**. **TODA. HORA.**  
+A autenticação do GitHub Copilot na minha empresa cai **toda hora**. **TODA. HORA!!!** E com isso minha paciencia vai embora.  
 
 Aí começa o ritual: reautenticar, fechar e abrir o VSCode, jurar fidelidade à OpenAI, prometer que dessa vez vou escrever um prompt direito… tudo isso pra ele **voltar a funcionar por cinco minutos** e depois cair de novo.  
 
