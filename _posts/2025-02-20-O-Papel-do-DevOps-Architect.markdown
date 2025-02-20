@@ -3,7 +3,7 @@ layout: post
 title:  "O Papel do DevOps Architect"
 permalink: /posts/devops/devops-architect
 date:   2025-02-20 10:00:00 +0300
-image:  6-Best-DevOps-Practices-to-Know-scaled-1.jpg
+image: devops_loop.webp
 tags:   devops, arquitetura, senioridade, cloud, carreira
 ---
 
