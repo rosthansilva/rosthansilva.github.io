@@ -3,7 +3,7 @@ layout: post
 title:  "A Vida é um MMO"
 permalink: /posts/carreira/a-vida-e-um-mmo
 date:   2025-02-27 10:00:00 +0300
-image: Ragnaroek-Online
+image: Ragnaroek-Online.png
 tags:   carreira, crescimento
 ---
 
@@ -21,7 +21,7 @@ E foi aí que caiu a ficha: a vida real não é muito diferente.
 
 ![](https://s04.video.glbimg.com/x720/11743255.jpg)
 
-Eu cresci na favela, no Rio de Janeiro, e, para ser sincero, minha perspectiva de futuro não era das melhores. Na minha época, trabalhar com TI já era algo elitizado, e, ingenuamente, escolhi a área de infraestrutura, onde os salários eram bem abaixo do esperado. Com muita sorte, um gestor chegava a ganhar entre 4 e 5 mil reais.
+Eu cresci na favela, no Rio de Janeiro, e, para ser sincero, minha perspectiva de futuro não era das melhores. Na minha época, trabalhar com TI já era algo elitizado, e, ingenuamente, escolhi a área de infraestrutura, onde os salários eram bem abaixo do esperado. Com muita sorte, um gestor chegava a ganhar entre 4 e 5 mil reais ( Isso faz mt tempo viu ).
 
 Mas eu era viciado em Ragnarok Online, aquele clássico da LevelUp Games, e um dia me bateu uma reflexão: no jogo, eu me esforçava pra caramba! Passava horas farmando XP, grindando skills, otimizando builds… e, na vida real, o esforço que eu fazia nem se comparava. O problema? Diferente do MMO, onde o grind sempre te fazia subir de nível, na vida, se você vem de uma origem humilde, pode se matar de trabalhar e, ainda assim, continuar no mesmo lugar. Só que eu não queria esse destino.
 
@@ -43,13 +43,13 @@ De júnior a pleno. De pleno a sênior. De sênior a especialista. De especialis
 
 ![](https://cdn.mos.cms.futurecdn.net/etEcwK6QpZbedbub82SZ5n.jpg)
 
-E foi assim que cheguei na entrevista para a Sinqia. Durante a conversa, soltei essa: *"Eu passava grande parte do meu dia jogando. Se eu era bom em jogo, tinha que ser bom na vida profissional. Não jogo mais, agora só estudo e trabalho. Quero ganhar de acordo com meu esforço."* Para minha surpresa, fui contratado! Mais tarde, descobri que meu líder era *top tier* no *Cabal Online*. Ele entendia perfeitamente a lógica do esforço e da recompensa.
+E foi assim que cheguei na entrevista para a Sinqia. isso a uns 3 anos atras se não me engano. Durante a conversa, soltei essa: *"Eu passava grande parte do meu dia jogando e isso não me rendia nada financeiramente. Se eu era bom em jogo, tinha que ser bom na vida profissional e ganhar em proporção. Não jogo mais, agora só estudo e trabalho. Quero ganhar de acordo com meu esforço."* Para minha surpresa, fui contratado! Mais tarde, descobri que meu líder era *top tier* no *Cabal Online* e o chefe do meu lider era brabo demais no CS. Ele entendia perfeitamente a lógica do esforço, da recompensa e de vencer o game.
 
 E foi com esse cara que aprendi algo valioso: *não dá pra passar a vida upando em um mapa ruim.* Se você quer crescer, tem que escolher bem onde investir seu tempo e esforço.
 
 ## Finalizando a Quest
 
-A verdade é que a vida é um MMO. Só que, aqui, quem define as regras do jogo é você.
+A verdade é que a vida é um MMO. Só que, aqui, quem define as regras do jogo é você ( Mentira é o maldito do capitalismo).
 
 Você pode ficar farmando XP sem sentido, repetindo as mesmas missões, ou pode decidir mudar de mapa, enfrentar desafios maiores e buscar loot de verdade.
 
