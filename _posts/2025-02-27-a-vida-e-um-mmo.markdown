@@ -41,6 +41,8 @@ De júnior a pleno. De pleno a sênior. De sênior a especialista. De especialis
 
 ## Boss Fight: A Entrevista
 
+![](https://cdn.mos.cms.futurecdn.net/etEcwK6QpZbedbub82SZ5n.jpg)
+
 E foi assim que cheguei na entrevista para a Sinqia. Durante a conversa, soltei essa: *"Eu passava grande parte do meu dia jogando. Se eu era bom em jogo, tinha que ser bom na vida profissional. Não jogo mais, agora só estudo e trabalho. Quero ganhar de acordo com meu esforço."* Para minha surpresa, fui contratado! Mais tarde, descobri que meu líder era *top tier* no *Cabal Online*. Ele entendia perfeitamente a lógica do esforço e da recompensa.
 
 E foi com esse cara que aprendi algo valioso: *não dá pra passar a vida upando em um mapa ruim.* Se você quer crescer, tem que escolher bem onde investir seu tempo e esforço.
@@ -52,4 +54,6 @@ A verdade é que a vida é um MMO. Só que, aqui, quem define as regras do jogo 
 Você pode ficar farmando XP sem sentido, repetindo as mesmas missões, ou pode decidir mudar de mapa, enfrentar desafios maiores e buscar loot de verdade.
 
 E aí, qual vai ser a sua build?
+
+
 
