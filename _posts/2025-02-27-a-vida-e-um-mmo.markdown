@@ -48,7 +48,7 @@ A diferença é que eu não podia me dar ao luxo de "morrer" na vida real e volt
 ![](https://cdn.mos.cms.futurecdn.net/etEcwK6QpZbedbub82SZ5n.jpg)  
 
 
-E foi assim que cheguei na entrevista para a Sinqia, há uns três anos. Cheguei preparado, armado com todas as skills e buffs que acumulei ao longo da jornada. No meio da conversa, soltei essa:
+E foi assim que cheguei na entrevista para a Sinqia, há uns Quatro anos. Cheguei preparado, armado com todas as skills e buffs que acumulei ao longo da jornada. No meio da conversa, soltei essa:
 
 **"Eu passava grande parte do meu dia jogando e isso não me rendia nada financeiramente. Se eu era bom em jogo, tinha que ser bom na vida profissional e ganhar em proporção. Não jogo mais, agora só estudo e trabalho. Quero ganhar de acordo com meu esforço."**
 
