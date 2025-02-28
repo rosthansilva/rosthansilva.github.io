@@ -9,57 +9,60 @@ tags: carreira, crescimento
 
 ---
 
-# A Vida é um MMO  
+layout: posttitle: "A Vida é um MMO"permalink: /posts/carreira/a-vida-e-um-mmodate: 2025-02-27 10:00:00 +0300image: Ragnaroek-Online.pngtags: carreira, crescimento
 
-Era assim que eu via a vida.  
+# A Vida é um MMO
+
+Esse carinha era eu na vida.
 
 ![](/images/FUDEU!.png)  
 
-Por muito tempo, gastei horas e horas jogando MMOs (Massively Multiplayer Online games), aqueles jogos onde você passa dias inteiros matando bichinhos, coletando itens e repetindo tarefas infinitamente por recompensas medíocres – mas o suficiente para te manter viciado.  
+Demorei para decidir escrever este post. Ele é pessoal, fala de algumas batalhas que travei na minha carreira e de coisas que, por muito tempo, guardei como se fossem os drops mais raros da minha bag. Mas, ao mesmo tempo, fico pensando: e se alguém aí do outro lado precisar ler exatamente isso? E se tiver um jogador solo precisando entender que não é o único que enfrenta certos desafios? Principalmente no Brasil, onde nascer pobre e periférico é começar o jogo no modo Hardcore, sem tutorial e com um monte de debuff ativo.
 
-E foi aí que caiu a ficha: a vida real não é muito diferente.  
+Por muito tempo, minha rotina era simples: ia para escola de manhã, voltava pra casa, ligava o PC e passava o resto do dia jogando MMOs (Massively Multiplayer Online games). A galera que viveu a era de ouro do Ragnarok Online sabe do que estou falando: horas e mais horas matando bichinhos, coletando loot, repetindo as mesmas tarefas infinitamente por recompensas medíocres – mas boas o suficiente para te manter viciado.
 
-## O Grind da Vida  
+E foi aí que, em um belo dia, caiu a ficha: **a vida real não é muito diferente.**
+
+## O Grind da Vida
 
 ![](https://s04.video.glbimg.com/x720/11743255.jpg)  
 
-Eu cresci na favela, no Rio de Janeiro, e, para ser sincero, minha perspectiva de futuro não era das melhores. Na minha época, trabalhar com TI já era algo elitizado, e, ingenuamente, escolhi a área de infraestrutura, onde os salários eram bem abaixo do esperado. Com muita sorte, um gestor chegava a ganhar entre 4 e 5 mil reais (isso faz muito tempo, viu?).  
+Cresci na favela, no Rio de Janeiro, e a real é que, se eu dependesse das expectativas que colocavam para mim, estaria até hoje upando XP em algum mapa ruim, com um char full errado, e sem grana nem para uma poção de cura. Quando comecei a me interessar por TI, trabalhar nessa área ainda era um privilégio de poucos, e eu, ingenuamente, decidi seguir para infraestrutura. Para você ter uma ideia, um gestor com sorte ganhava entre 4 e 5 mil reais – isso numa época em que essa grana já não era lá grande coisa.
 
-Mas eu era viciado em Ragnarok Online, aquele clássico da LevelUp Games, e um dia me bateu uma reflexão: no jogo, eu me esforçava pra caramba! Passava horas farmando XP, grindando skills, otimizando builds… e, na vida real, o esforço que eu fazia nem se comparava. O problema? Diferente do MMO, onde o grind sempre te fazia subir de nível, na vida, se você vem de uma origem humilde, pode se matar de trabalhar e, ainda assim, continuar no mesmo lugar. Só que eu não queria esse destino.  
+Mas foi jogando Ragnarok Online que uma coisa me bateu forte: por que diabos eu me matava tanto no jogo, otimizado até os dentes, e na vida real eu sequer fazia um build decente? Passava madrugadas farmando XP, melhorando skills, planejando estratégias, estudando cada pixel do mapa para maximizar meu ganho de loot... E, na vida real? Fazia o básico do básico e esperava alguma coisa mudar.
 
-Foi aí que percebi: precisava jogar a vida como um MMO de verdade. Tinha que escolher melhor minhas quests, parar de grindar em mapas ruins e investir no meu "char" profissional.  
+O problema? Diferente do MMO, onde o grind sempre te faz subir de nível, na vida real, se você nasce em um servidor zoado, pode se matar de trabalhar e ainda assim não sair do lugar.
 
-## Meu Plano de Jogo  
+Foi aí que decidi mudar minha estratégia: se a vida era um MMO, eu ia jogar pra ganhar.
+
+## Meu Plano de Jogo
 
 ![](/images/qxww7ngxwyk51.webp)  
 
-> Eu sabia tudo de Linux, precisava que o pinguim fizesse a diferença...  
+> "Eu sabia tudo de Linux, precisava que o pinguim fizesse a diferença..."
 
-Então, decidi transformar minha vida em um verdadeiro *Sword Art Online*. Se no MMO existiam os "cachers" – aqueles jogadores que gastam dinheiro para acelerar o progresso –, eu faria o mesmo no mercado de trabalho: comecei a investir pesado em cursos, afiar o inglês e pagar certificações. Eu queria os melhores "itens" da vida profissional. O objetivo era claro: upar de nível e transclassar!  
+Se nos MMOs existiam os "cachers" – aqueles jogadores que gastam dinheiro para acelerar o progresso – eu precisava encontrar uma forma de fazer isso na vida real. Mas, como eu não tinha grana, minha moeda seria tempo e dedicação. Então, comecei a investir pesado: cursos online, documentação oficial, lab prático, certificações. Aprender inglês não era opcional, era quest obrigatória. Precisava dos melhores "itens" da vida profissional para upar rápido.
 
-Comecei a ver cada ponto do meu currículo como uma missão principal. Queria trabalhar numa fintech, queria atuar em consultoria, dar aula em uma faculdade grande, fazer desafios com os melhores cloud providers e, principalmente, chegar ao ponto em que eu pudesse escolher os clientes com quem trabalharia. Cada meta era uma dungeon, cada skill aprendida era um upgrade no meu personagem.  
+Tracei minhas metas como se fossem dungeons: queria trabalhar numa fintech (check), queria atuar em consultoria (check), queria dar aula em uma faculdade grande (check), queria mexer com os melhores cloud providers (check). Cada conquista era um upgrade no meu char. De júnior a pleno. De pleno a sênior. De sênior a especialista. De especialista a arquiteto. Do mesmo jeito que, no Ragnarok, um guerreiro se tornava cavaleiro e, depois, lorde.
 
-De júnior a pleno. De pleno a sênior. De sênior a especialista. De especialista a arquiteto. Do mesmo jeito que, no Ragnarok, um guerreiro se tornava cavaleiro e, depois, lorde.  
+A diferença é que eu não podia me dar ao luxo de "morrer" na vida real e voltar para o save anterior. Cada escolha errada custava tempo, energia e oportunidades.
 
-## Boss Fight: A Entrevista  
+# Boss Fight: A Entrevista
 
 ![](https://cdn.mos.cms.futurecdn.net/etEcwK6QpZbedbub82SZ5n.jpg)  
 
-E foi assim que cheguei na entrevista para a Sinqia, isso há uns 3 anos atrás, se não me engano. Durante a conversa, soltei essa: *"Eu passava grande parte do meu dia jogando e isso não me rendia nada financeiramente. Se eu era bom em jogo, tinha que ser bom na vida profissional e ganhar em proporção. Não jogo mais, agora só estudo e trabalho. Quero ganhar de acordo com meu esforço."* Para minha surpresa, fui contratado! Mais tarde, descobri que meu líder era *top tier* no *Cabal Online* e o chefe do meu líder era brabo demais no CS. Ele entendia perfeitamente a lógica do esforço, da recompensa e de vencer o game.  
 
-E foi com esse cara que aprendi algo valioso: *não dá pra passar a vida upando em um mapa ruim.* Se você quer crescer, tem que escolher bem onde investir seu tempo e esforço.  
+E foi assim que cheguei na entrevista para a Sinqia, há uns três anos. Cheguei preparado, armado com todas as skills e buffs que acumulei ao longo da jornada. No meio da conversa, soltei essa:
 
-## Aprendizados do Game  
+**"Eu passava grande parte do meu dia jogando e isso não me rendia nada financeiramente. Se eu era bom em jogo, tinha que ser bom na vida profissional e ganhar em proporção. Não jogo mais, agora só estudo e trabalho. Quero ganhar de acordo com meu esforço."**
 
-Uma das coisas mais importantes que aprendi foi a importância de escolher as batalhas certas. No MMO, você não vai enfrentar um boss de nível 100 com um personagem nível 10, certo? Na vida, é a mesma coisa. Se você quer alcançar objetivos maiores, precisa se preparar, estudar, praticar e, principalmente, escolher as oportunidades que vão te levar para o próximo nível.  
+Pra minha surpresa, fui contratado na hora. Mais tarde, descobri que meu líder era top tier no Cabal Online e o chefe dele era brabo no Counter-Strike. Eles entenderam perfeitamente a lógica do esforço, da recompensa e do grind bem feito.
 
-Outra lição valiosa foi a de que o grind, por si só, não é suficiente. No jogo, você pode passar horas matando os mesmos monstros, mas, se não estiver ganhando XP suficiente ou loot de qualidade, está perdendo tempo. Na vida, é igual: trabalhar muito não significa necessariamente crescer. É preciso trabalhar com inteligência, buscando oportunidades que realmente agreguem valor ao seu "personagem".  
+E foi com eles que aprendi algo valioso:
 
-## A Comunidade e o Networking  
+> "Não dá pra passar a vida upando em um mapa ruim."
 
-Nos MMOs, a comunidade é essencial. Você precisa de um bom guild (clã) para enfrentar os desafios mais difíceis. Na vida, o networking funciona da mesma forma. Ter uma rede de contatos sólida pode abrir portas que você nem imaginava. Foi assim que consegui algumas das melhores oportunidades da minha carreira: através de indicações e conexões que fiz ao longo do caminho.  
-
-E não se trata apenas de "usar" as pessoas, mas de construir relacionamentos genuínos. Assim como no jogo, onde você ajuda seus colegas de guild a completar missões, na vida, ajudar os outros pode trazer recompensas inesperadas no futuro.  
+Se você quer crescer, precisa escolher bem onde investe tempo e energia.
 
 ## O Loot da Vida  
 
@@ -67,4 +70,5 @@ No final das contas, o que eu mais aprendi foi que a vida é um jogo de escolhas
 
 E aí, qual vai ser a sua build?  
 
----  
+
+
