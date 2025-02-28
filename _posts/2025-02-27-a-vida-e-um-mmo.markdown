@@ -62,7 +62,7 @@ Se você quer crescer, precisa escolher bem onde investe tempo e energia.
 
 ## O Loot da Vida  
 
-No final das contas, o que eu mais aprendi foi que a vida é um jogo de escolhas. Cada decisão que você toma é como escolher uma skill para upar ou um item para equipar. Algumas escolhas vão te levar mais longe, outras vão te fazer perder tempo. O importante é sempre estar atento ao que realmente importa e não ter medo de mudar de estratégia quando necessário.  
+No final das contas, o que eu mais aprendi foi que a vida é um jogo de escolhas. Cada decisão que você toma é como escolher uma skill para upar ou um item para equipar. Algumas escolhas vão te levar mais longe, outras vão te fazer perder tempo. O importante é sempre estar atento ao que realmente importa e não ter medo de mudar de estratégia quando necessário. Hoje tenho muito foco em ajudar pessoas com a mesma origem e mesmo objetivo, tanto no trabalho quanto em mentorias que faço. 
 
 E aí, qual vai ser a sua build?  
 
