@@ -1,15 +1,11 @@
 ---
-
 layout: post  
 title: "A Vida é um MMO"  
 permalink: /posts/carreira/a-vida-e-um-mmo  
 date: 2025-02-27 10:00:00 +0300  
 image: Ragnaroek-Online.png  
 tags: carreira, crescimento  
-
 ---
-
-layout: posttitle: "A Vida é um MMO"permalink: /posts/carreira/a-vida-e-um-mmodate: 2025-02-27 10:00:00 +0300image: Ragnaroek-Online.pngtags: carreira, crescimento
 
 # A Vida é um MMO
 
