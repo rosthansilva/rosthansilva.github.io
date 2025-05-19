@@ -24,8 +24,15 @@ Sim, são dezenas de aplicações rodando em containers, em clusters Kubernetes 
 Com algumas lições duramente aprendidas (e ainda sendo aprendidas):
 
 - Documentar o fluxo de eventos salva amizades.
+  
+  Documentar o fluxo de eventos salva amizades porque, no meio de uma investigação, ninguém quer depender da memória do estagiário ou da "lenda oral" passada de squad em squad. Quando tudo está claro, os dedos apontam menos e as soluções chegam mais rápido.
+
 - Centralizar observabilidade é quase um ato de saúde mental coletiva.
+  
+  Centralizar observabilidade é quase um ato de saúde mental coletiva porque ninguém aguenta abrir 5 dashboards, 3 contas diferentes e ainda ter que dar kubectl logs no escuro. Ver tudo num só lugar é o equivalente técnico a abrir a janela e deixar o sol entrar.
+
 - E a mais importante: **ninguém resolve tudo sozinho**.
+  E o mais importante: ninguém resolve tudo sozinho. Sistemas distribuídos não são feitos por heróis solitários, mas por equipes que se comunicam, compartilham contexto e aprendem com os erros — de preferência antes que eles virem incidentes com nome e sobrenome.
 
 É só com empatia e comunicação entre quem desenvolve e quem mantém os ambientes vivos que conseguimos lidar com a dinâmica dessas plataformas modernas.
 
