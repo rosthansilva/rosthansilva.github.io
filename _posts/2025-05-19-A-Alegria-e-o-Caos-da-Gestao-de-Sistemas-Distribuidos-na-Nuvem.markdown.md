@@ -41,6 +41,7 @@ A boa notícia? Quando todo mundo joga junto, a mágica acontece: incidentes vir
 
 Se você está mergulhado nesse mundo de sistemas distribuídos, fica aqui meu recado: não lute contra a complexidade, **entenda, abrace e dome ela com boas práticas, cloud bem pensada e time alinhado**. E claro, mantenha sempre um café por perto.
 
-> “O sistema não quebrou, ele só está distribuído demais pra gente entender.”
+> “O sistema não quebrou, ele só está distribuído demais pra gente entender.” - Satã da TI
+![FreeBSD Daemon](https://media.tenor.com/vxMcxD5TpOEAAAAe/freebsd-daemon.png)
 
 
