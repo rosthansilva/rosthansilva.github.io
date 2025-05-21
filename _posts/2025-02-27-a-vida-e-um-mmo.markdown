@@ -4,7 +4,7 @@ title: "A Vida é um MMO"
 permalink: /posts/carreira/a-vida-e-um-mmo  
 date: 2025-02-27 10:00:00 +0300  
 image: Ragnaroek-Online.png  
-tags: Carreira DevOps
+tags: Carreira
 ---
 
 # A Vida é um MMO

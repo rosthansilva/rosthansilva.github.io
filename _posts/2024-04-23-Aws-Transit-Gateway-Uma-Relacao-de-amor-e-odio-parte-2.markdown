@@ -4,7 +4,7 @@ title:  "AWS Transit Gateway - Uma Relação de amor e ódio - Parte: 02"
 permalink: /posts/aws/Aws-Transit-Gateway-Uma-Relacao-de-amor-e-odio2
 date:   2024-04-24 18:05:55 +0300
 image:  image_tg2.png
-tags:   aws
+tags: aws
 ---
 # AWS Transit Gateway - Uma Relação de Amor e Ódio - Parte 2
 

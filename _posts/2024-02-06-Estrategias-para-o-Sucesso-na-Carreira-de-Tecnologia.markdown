@@ -4,7 +4,7 @@ title:  "Estratégias para o Sucesso na Carreira de Tecnologia"
 permalink: /carreira/Estrategias-para-o-Sucesso-na-Carreira-de-Tecnologia
 date:   2024-02-06 18:05:55 +0300
 image: 000.png
-tags:   Carreira
+tags: Carreira
 ---
 
 # Reflexões Sobre a Trajetória Profissional em DevOps
