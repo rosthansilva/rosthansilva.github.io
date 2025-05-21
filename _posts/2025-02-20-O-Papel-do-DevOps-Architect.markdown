@@ -4,7 +4,7 @@ title:  "O Papel do DevOps Architect"
 permalink: /posts/devops/devops-architect
 date:   2025-02-20 10:00:00 +0300
 image: devops_loop.webp
-tags:   devops, arquitetura, senioridade, cloud, carreira
+tags:   devops arquitetura cloud carreira
 ---
 
 # O Papel do DevOps Architect

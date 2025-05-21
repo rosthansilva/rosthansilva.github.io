@@ -4,7 +4,7 @@ title:  "Desenvolvendo Habilidades em Python para um DevOps"
 permalink: /Desenvolvimento/Python/Desenvolvendo-Habilidades-em-Python-para-um-DevOps
 date:   2024-04-23 18:05:55 +0300
 image: 0001.jpg
-tags:   Carreira
+tags: Carreira
 ---
 
 

@@ -4,7 +4,7 @@ title:  "O Copilot Está Me Deixando Improdutivo?"
 permalink: /posts/ia/Copilot-Me-Deixando-Improdutivo
 date:   2025-01-30 13:05:55 +0300
 image:  2025-01-30-Copilot-Me-Deixando-Improdutivo.png
-tags:   ia, produtividade, dev, vscode, copilot
+tags:   ia produtividade dev vscode copilot
 ---
 
 # O Copilot Está Me Deixando **Improdutivo?**  
