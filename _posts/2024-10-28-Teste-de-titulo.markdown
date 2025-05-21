@@ -4,7 +4,7 @@ title:  "TI e o sonho de acabar com tudo"
 permalink: /posts/tecnologia/TI-e-o-sonho-de-acabar-com-tudo
 date:   2024-12-17 08:00:00 -0300
 image:  fake.png
-tags:   tecnologia humor
+tags:   Humor
 ---
 
 # TI e o sonho de acabar com tudo
