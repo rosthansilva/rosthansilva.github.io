@@ -4,7 +4,7 @@ title:  "A Alegria e o Caos da Gestão de Sistemas Distribuídos na Nuvem"
 permalink: /cloud/gestao-de-sistemas-distribuidos
 date:   2025-05-19 10:30:00 +0300
 image: 16_18_21.png
-tags: Cloud, DevOps, Arquitetura
+tags: Cloud DevOps Arquitetura
 ---
 
 # A Alegria e o Caos da Gestão de Sistemas Distribuídos na Nuvem
