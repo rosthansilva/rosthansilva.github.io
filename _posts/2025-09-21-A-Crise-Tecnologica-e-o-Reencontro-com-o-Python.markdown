@@ -1,13 +1,13 @@
 ---
 layout: post 
-title: "A Crise de Meia-Idade do Profissional de TI e a Surpresa do Python" 
-permalink: /posts/dev/Crise-de-Meia-Idade-Tech 
+title: "A Surpresa do Python: Como Reencontrei o Prazer de Fazer, Longe dos Buzzwords " 
+permalink: /posts/dev/crise-ti-e-reencontro 
 date: 2025-09-21 16:51:25 +0000 
 image: tec.png 
-tags: ti, python, dev, carreira, comunidade, open-source
+tags: python, dev, open-source
 ---
 
-## A Crise de Meia-Idade do Profissional de TI – e a Surpresa do Python
+## A Surpresa do Python: Como Reencontrei o Prazer de Fazer, Longe dos Buzzwords 
 
 Nos últimos tempos, tenho vivido uma sensação difícil de explicar: uma espécie de **platô**.
 Não é preguiça, nem medo de mudança. É algo mais sutil, quase filosófico: uma estagnação de **propósito**.
