@@ -3,7 +3,7 @@ layout: post
 title: "A Crise de Meia-Idade do Profissional de TI e a Surpresa do Python" 
 permalink: /posts/dev/Crise-de-Meia-Idade-Tech 
 date: 2025-09-21 16:51:25 +0000 
-image: 2025-09-21-A-Crise-De-Meia-Idade-Tech.png 
+image: 1Bxn2JM5VxLPh_6PeMXdTGw.webp 
 tags: ti, python, dev, carreira, comunidade, open-source
 ---
 
