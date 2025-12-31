@@ -4,16 +4,31 @@
 {% include head.html %}
 
 <body>
-  {% include header.html %}
-  
-  <main class="content" aria-label="Content">
-    {{ content }}
-  </main>
 
-  <div class="top ion ion-ios-arrow-up" title="Top"></div>
+  {% if site.data.settings.maintenance == true %}
+    <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; font-family: sans-serif; padding: 20px;">
+      <i class="ion ion-ios-construct" style="font-size: 60px; color: #8ec760;"></i>
+      <h1 style="margin-top: 20px;">{{ site.data.settings[page.lang].maintenance_title }}</h1>
+      <p style="font-size: 1.2rem; color: #666;">{{ site.data.settings[page.lang].maintenance_message }}</p>
+      
+      <a href="{{ site.data.settings.linkedin }}" style="margin-top: 30px; text-decoration: none; color: #0077b5;">
+        Acompanhe novidades no LinkedIn
+      </a>
+    </div>
 
-  {% include search.html %}
-  {% include footer.html %}
-  {% include cookie-consent.html %} {% include javascripts.html %}
+  {% else %}
+    {% include header.html %}
+    
+    <main class="content" aria-label="Content">
+      {{ content }}
+    </main>
+
+    <div class="top ion ion-ios-arrow-up" title="Top"></div>
+    {% include search.html %}
+    {% include footer.html %}
+    {% include cookie-consent.html %}
+    {% include javascripts.html %}
+  {% endif %}
+
 </body>
 </html>

@@ -4,16 +4,18 @@ title: Rosthan Silva
 logo: logo.svg # You can add own logo.
 description: DevOps na Prática 
 
-
+maintenance: true
 #-------------------------------
 # Author Settings
 author:
   name: Rosthan Silva
-  image: rosthan_e_valentim.png
+  image: Manutencao.jpg #rosthan_e_valentim.png
   say-hello: Olá, Sou <strong>Rosthan Silva</strong>
   bio: Especialista em Sistemas <strong>Linux</strong>, <strong>DevOps</strong>, <strong>Arquitetura Cloud</strong>, e  <strong> Microserviços</strong>. Aqui eu compartilho um pouco de conteúdo para ajudar na experiência técnica dos meus seguidores. Meu hobby é codar com meu filho no colo, jogar souls likes e metroidvanias.
 
 pt:
+  maintenance_title: "Site em Manutenção"
+  maintenance_message: "Estamos trabalhando em melhorias técnicas. Voltamos logo!"
   cookie:
     message: "Este site utiliza cookies para garantir que você obtenha a melhor experiência."
     allow: "Aceitar"
@@ -27,7 +29,10 @@ pt:
   search:
     label: "Procure no Blog"
     placeholder: "Digite aqui..." 
+
 en:
+  maintenance_title: "Under Maintenance"
+  maintenance_message: "We're currently working on technical improvements. We'll be back soon!"
   cookie:
     message: "This website uses cookies to ensure you get the best experience."
     allow: "Approve"
