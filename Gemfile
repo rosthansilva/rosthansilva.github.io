@@ -6,3 +6,4 @@ gem 'jekyll-tagging'
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
+gem "jekyll-include-cache"
