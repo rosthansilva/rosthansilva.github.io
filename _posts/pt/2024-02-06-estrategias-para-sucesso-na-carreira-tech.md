@@ -7,6 +7,11 @@ image: 000.png
 tags: Carreira
 lang: pt
 ref: sistemas-distribuidos
+pagination: 
+  enabled: true
+  collection: posts
+  filter_index: lang  # <--- Diz ao plugin para olhar o campo 'lang' dos posts
+  filter_value: pt    # <--- Diz para pegar apenas posts com 'lang: pt'
 ---
 
 # Reflexões sobre a Trajetória Profissional em DevOps
