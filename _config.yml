@@ -28,11 +28,13 @@ social:
 # NOVO BLOCO: Configuração do Paginate V2
 pagination:
   enabled: true
+  debug: false # Mude para true se quiser ver detalhes no log do GitHub Actions
+  collection: 'posts'
   per_page: 5
-  permalink: "/page/:num/" # Isso vai gerar /pt/page/2/ automaticamente
-  title: ":title - Page :num"
+  permalink: '/page/:num/'
+  title: ':title - Page :num'
   limit: 0
-  sort_field: "date"
+  sort_field: 'date'
   sort_reverse: true
 
 # Pages Path & Defaults
@@ -41,10 +43,21 @@ defaults:
       path: "" # Raiz do site
     values:
       layout: "default"
+  # - scope:
+  #     path: "_pages"
+  #   values:
+  #     permalink: "/:basename/"
   - scope:
-      path: "_pages"
+      path: "_posts/en"
     values:
-      permalink: "/:basename/"
+      lang: "en"
+      category: "en"
+  - scope:
+      path: "_posts/pt"
+    values:
+      lang: "pt"
+      category: "pt"
+
 
 include:
   - _pages
