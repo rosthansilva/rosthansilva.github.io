@@ -1,12 +1,11 @@
 <div class="container">
   <div class="row">
     <div class="col col-12">
-      <!-- begin header -->
       <header class="header">
 
-        <div class="logo" width="pixels">
-          <a class="logo__link" href="{{site.baseurl}}/">
-          {%if site.data.settings.logo %}
+        <div class="logo">
+          <a class="logo__link" href="{{ site.baseurl }}/{% if page.lang == 'en' %}en/{% else %}pt/{% endif %}">
+          {% if site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
             {{ site.data.settings.title }}
@@ -15,7 +14,6 @@
         </div>
 
         <nav class="main-nav">
-
           <div class="main-nav__box">
             <div class="nav-icon__close">
               <i class="ion ion-ios-close-circle-outline"></i>
@@ -25,30 +23,47 @@
 
             <ul class="nav__list list-reset">
               <li class="nav__item">
-                <a href="{{site.baseurl}}/" class="nav__link">Home</a>
+                <a href="{{ site.baseurl }}/{% if page.lang == 'en' %}en/{% else %}pt/{% endif %}" class="nav__link">Home</a>
               </li>
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-              {% if page.title %}
-              <li class="nav__item">
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-              </li>
-              {% endif %}
-                {% endunless %}
+
+              {% for p in site.pages %}
+                {% if p.lang == page.lang %} {% if p.header %} <li class="nav__item">
+                      <a href="{{ p.url | relative_url }}" class="nav__link">{{ p.title }}</a>
+                    </li>
+                  {% endif %}
+                {% endif %}
               {% endfor %}
             </ul>
-
           </div>
         </nav>
 
         <div class="nav-buttons">
+          <div class="lang-dropdown">
+            <button class="lang-dropbtn">
+              {% if page.lang == 'en' %}🇺🇸{% else %}🇧🇷{% endif %}
+              <i class="ion ion-ios-arrow-down"></i>
+            </button>
+            <div class="lang-dropdown-content">
+              {% assign translations = site.posts | concat: site.pages | where: "ref", page.ref %}
+              
+              {% assign pt_page = translations | where: "lang", "pt" | first %}
+              <a href="{% if pt_page %}{{ pt_page.url | relative_url }}{% else %}{{ site.baseurl }}/pt/{% endif %}" class="{% if page.lang == 'pt' %}active{% endif %}">
+                🇧🇷 PT
+              </a>
+
+              {% assign en_page = translations | where: "lang", "en" | first %}
+              <a href="{% if en_page %}{{ en_page.url | relative_url }}{% else %}{{ site.baseurl }}/en/{% endif %}" class="{% if page.lang == 'en' %}active{% endif %}">
+                🇺🇸 EN
+              </a>
+            </div>
+          </div>
+          
           <i class="nav__icon nav__icon-menu ion ion-md-menu" aria-label="Menu Icon"></i>
           <i class="nav__icon nav__icon-search ion ion-md-search" aria-label="Search Icon"></i>
         </div>
 
         <div class="header__overlay"></div>
       </header>
-      <!-- end header -->
-    </div>
+      </div>
   </div>
 </div>

@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Privacidade
-permalink: /Privacy/
+title: "Privacidade"
+lang: pt
+ref: privacy
+header: false
+permalink: /pt/privacy/
 ---
 
 

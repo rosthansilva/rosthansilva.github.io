@@ -1,45 +1,84 @@
 ---
 layout: default
+title: Archive
+lang: en
+ref: archive
+header: true
+permalink: /en/archive/
 ---
 
 <div class="container">
   <article class="page">
     <h1>{{ page.title }}</h1>
-    <h2> Por Data</h2>
+
+    <div class="archive-nav" style="margin-bottom: 40px; font-size: 0.9em; opacity: 0.8;">
+      Jump to: 
+      <a href="#by-category">Categories</a> | 
+      <a href="#by-tag">Tags</a> | 
+      <a href="#by-timeline">Timeline</a>
+    </div>
+
+    <h2 id="by-category">📚 By Category</h2>
+    <div class="entry">
+      {% assign categories = site.categories | sort %}
+      {% for category in categories %}
+        {% assign category_name = category | first %}
+        {% assign posts_in_lang = category | last | where: "lang", page.lang %}
+        
+        {% if posts_in_lang.size > 0 %}
+        <details style="margin-bottom: 10px;">
+          <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em;">
+            {{ category_name | capitalize }} <small style="font-weight: normal; opacity: 0.6;">({{ posts_in_lang.size }} posts)</small>
+          </summary>
+          <ul style="margin-top: 10px;">
+            {% for post in posts_in_lang %}
+              <li>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </details>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <hr style="margin: 40px 0;">
+
+    <h2 id="by-tag">🏷️ By Tag</h2>
+    <div class="entry" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+      {% assign tags = site.tags | sort %}
+      {% for tag in tags %}
+        {% assign tag_name = tag | first %}
+        {% assign tag_posts_in_lang = tag | last | where: "lang", page.lang %}
+        
+        {% if tag_posts_in_lang.size > 0 %}
+        <a href="#{{ tag_name | slugify }}" style="padding: 5px 12px; background: #1e1e2e; color: #cdd6f4; border-radius: 20px; font-size: 0.8em; text-decoration: none;">
+          {{ tag_name }} ({{ tag_posts_in_lang.size }})
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <hr style="margin: 40px 0;">
+
+    <h2 id="by-timeline">📅 Timeline</h2>
     <div class="entry">
       {% assign previousYear = "" %}
-      {% for post in site.posts %}
-        {% capture currentYear %}
-          {{ post.date | date: "%Y" }}
-        {% endcapture %}
+      {% assign lang_posts = site.posts | where: "lang", page.lang %}
+      
+      {% for post in lang_posts %}
+        {% capture currentYear %}{{ post.date | date: "%Y" }}{% endcapture %}
         {% if currentYear != previousYear %}
           {% assign previousYear = currentYear %}
-          <h3>{{ currentYear }}</h3>
+          <h3 style="margin-top: 30px; border-left: 4px solid #89b4fa; padding-left: 10px;">{{ currentYear }}</h3>
         {% endif %}
-        {{ post.date | date: '%B %d, %Y' }} - <a style="font-weight: bold" href="{{ post.url }}">{{ post.title }}</a>
-        <br />
+        
+        <div style="margin-bottom: 8px;">
+          <span style="font-family: monospace; opacity: 0.6;">{{ post.date | date: '%b %d' }}</span> — 
+          <a style="font-weight: bold" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </div>
       {% endfor %}
     </div>
-     <br /><br />
-    <h2> Por Tag</h2>
-    <div class="entry">
-      {% for post in site.posts %}
-        {% assign tags = tags | concat:post.tags %}
-      {% endfor %}
-      {% assign tags = tags | uniq | sort %}
-      {% for tag in tags %}
-        <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
-        <ul>
-          {% for post in site.posts %}
-            {% if post.tags contains tag %}
-              <li>
-                <a href="{{ post.url }}"> {{ post.title }} </a>
-                <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      {% endfor %}
-    </div>
+
   </article>
 </div>

@@ -1,44 +1,47 @@
+{% if paginator.total_pages > 1 %}
 <nav class="pagination">
   <div class="container">
     <div class="pagination__list">
 
       {% if paginator.previous_page %}
-      
-      {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/">Anteriores</a>
+        {% if paginator.previous_page == 1 %}
+          <a class="previous-link" href="{{ site.baseurl }}/{{ page.lang }}/">
+            {% if page.lang == 'en' %}Previous{% else %}Anteriores{% endif %}
+          </a>
+        {% else %}
+          <a class="previous-link" href="{{ site.baseurl }}/{{ page.lang }}/page/{{ paginator.previous_page }}/">
+            {% if page.lang == 'en' %}Previous{% else %}Anteriores{% endif %}
+          </a>
+        {% endif %}
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Anteriores</a>
-      {% endif %}
-      
-      {% else %}
-        <span class="disabled">Anteriores</span>
+        <span class="disabled">{% if page.lang == 'en' %}Previous{% else %}Anteriores{% endif %}</span>
       {% endif %}
 
       <div class="counter-box">
         {% if paginator.page == 1 %}
           <span class="active-link">1</span>
         {% else %}
-          <a href="{{ site.baseurl }}/">1</a>
+          <a href="{{ site.baseurl }}/{{ page.lang }}/">1</a>
         {% endif %}
-
 
         {% for count in (2..paginator.total_pages) %}
-
-        {% if count == paginator.page %}
-          <span class="active-link">{{ count }}</span>
-        {% else %}
-          <a class="count-number" href="{{ site.baseurl }}/page/{{ count }}/">{{ count }}</a>
-        {% endif %}
+          {% if count == paginator.page %}
+            <span class="active-link">{{ count }}</span>
+          {% else %}
+            <a class="count-number" href="{{ site.baseurl }}/{{ page.lang }}/page/{{ count }}/">{{ count }}</a>
+          {% endif %}
         {% endfor %}
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Posteriores</a>
+        <a class="next-link" href="{{ site.baseurl }}/{{ page.lang }}/page/{{ paginator.next_page }}/">
+          {% if page.lang == 'en' %}Next{% else %}Posteriores{% endif %}
+        </a>
       {% else %}
-        <span class="disabled">Posteriores</span>
+        <span class="disabled">{% if page.lang == 'en' %}Next{% else %}Posteriores{% endif %}</span>
       {% endif %}
-
 
     </div>
   </div>
 </nav>
+{% endif %}

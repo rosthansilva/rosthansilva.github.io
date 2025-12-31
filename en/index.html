@@ -1,0 +1,34 @@
+---
+layout: default
+title: Home
+lang: en
+ref: home
+permalink: /en/
+pagination: 
+  enabled: true
+  collection: posts
+  filter_index: lang
+  filter_value: en
+---
+
+{% include hero.html %}
+
+<div class="container">
+    <div class="row">
+        <div class="col col-12">
+            {% if paginator.posts.size > 0 %}
+                <h4 class="lates-title">Latest Posts</h4>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+    {% for post in paginator.posts %}
+        {% include article-content.html %}
+    {% endfor %}
+    </div>
+</div>
+
+{% include pagination.html %}

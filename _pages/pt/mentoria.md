@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Mentoria
-permalink: /Mentoria/
+title: "Mentoria"
+lang: pt
+ref: mentoria
+header: true
+permalink: /pt/mentoria/
 image: htd_id.jpeg
 ---
 

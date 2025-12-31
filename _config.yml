@@ -1,29 +1,53 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rosthansilva.com/" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: ""
+url: "https://rosthansilva.com/"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2 # Plugin necessário para subpastas /pt/ e /en/
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-seo-tag
+  - jekyll-feed
 
-paginate: 5
-paginate_path: "/page/:num"
+languages: ["pt", "en"]
+default_lang: "pt"
 
+highlighter: rouge
 
-# Pages Path
+# Configurações de SEO (jekyll-seo-tag)
+social:
+  name: Rosthan Silva
+  links:
+    - https://twitter.com/rosthanlinux
+    - https://github.com/rosthanlinux
+    - https://linkedin.com/in/rosthanlinux
+
+# NOVO BLOCO: Configuração do Paginate V2
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: "/page/:num/" # Isso vai gerar /pt/page/2/ automaticamente
+  title: ":title - Page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+
+# Pages Path & Defaults
 defaults:
   - scope:
-      path: '_pages'
+      path: "" # Raiz do site
     values:
-      permalink: /:basename:output_ext
+      layout: "default"
+  - scope:
+      path: "_pages"
+    values:
+      permalink: "/:basename/"
 
 include:
   - _pages
-
 
 # Tags
 tag_page_dir:         tag
@@ -33,4 +57,3 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-

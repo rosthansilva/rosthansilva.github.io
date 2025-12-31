@@ -5,9 +5,16 @@ permalink: /cloud/gestao-de-sistemas-distribuidos
 date:   2025-05-19 10:30:00 +0300
 image: 16_18_21.png
 tags: Arquitetura
+lang: pt
 ---
 
 # A Alegria e o Caos da Gestão de Sistemas Distribuídos na Nuvem
+
+python
+def hello():
+    print("Hello, world!")
+
+
 
 Gerenciar **sistemas distribuídos na nuvem** é, no mínimo, um esporte de alto rendimento. Você começa o dia achando que vai só reiniciar um pod, e termina traçando o caminho de um evento que atravessa cinco microserviços, duas filas e um Lambda que misteriosamente *funciona só às vezes*. Normal.
 

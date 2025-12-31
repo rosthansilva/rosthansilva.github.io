@@ -1,0 +1,53 @@
+# Informações do Site
+title: "Roshtan Silva"
+description: "Engenharia de Software, Bazel, Python e a vida de um dev brasileiro no exterior."
+author: "Roshtan Silva"
+email: "seu-email@exemplo.com"
+
+baseurl: "" 
+url: "https://rosthansilva.com/"
+
+# Plugins - Adicionei o SEO e o Feed (importante para blogs técnicos)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Configurações de SEO (jekyll-seo-tag)
+social:
+  name: Roshtan Silva
+  links:
+    - https://twitter.com/seu_usuario
+    - https://github.com/seu_usuario
+    - https://linkedin.com/in/seu_usuario
+
+# Build settings
+markdown: kramdown
+highlighter: rouge # Essencial para o código Bazel e Python ficar bonito
+permalink: /:categories/:title/ # Organiza a URL por categoria (ex: /bazel/post-titulo)
+
+paginate: 5
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: "" # mudado de _pages para vazio para pegar posts também
+    values:
+      layout: "post"
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+      layout: "page"
+
+# Tags (Mantendo sua config atual que já funciona)
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed

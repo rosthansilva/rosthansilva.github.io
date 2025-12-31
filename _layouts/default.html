@@ -1,31 +1,19 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{% if page.lang == 'en' %}en-US{% else %}pt-BR{% endif %}">
 
 {% include head.html %}
 
 <body>
-
-  {% if site.data.settings.google-analytics %}
-  {% include google-analytics.html %}
-  {% endif %}
-
   {% include header.html %}
   
-  <!-- begin content -->
   <main class="content" aria-label="Content">
     {{ content }}
   </main>
-  <!-- end content -->
 
   <div class="top ion ion-ios-arrow-up" title="Top"></div>
 
   {% include search.html %}
-
   {% include footer.html %}
-
-  {% include cookie-consent.html %}
-
-  {% include javascripts.html %}
+  {% include cookie-consent.html %} {% include javascripts.html %}
 </body>
-
 </html>

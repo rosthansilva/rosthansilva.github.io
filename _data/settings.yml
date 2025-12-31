@@ -13,7 +13,35 @@ author:
   say-hello: Olá, Sou <strong>Rosthan Silva</strong>
   bio: Especialista em Sistemas <strong>Linux</strong>, <strong>DevOps</strong>, <strong>Arquitetura Cloud</strong>, e  <strong> Microserviços</strong>. Aqui eu compartilho um pouco de conteúdo para ajudar na experiência técnica dos meus seguidores. Meu hobby é codar com meu filho no colo, jogar souls likes e metroidvanias.
 
-
+pt:
+  cookie:
+    message: "Este site utiliza cookies para garantir que você obtenha a melhor experiência."
+    allow: "Aceitar"
+    deny: "Recusar"
+    link: "Saiba mais"
+  title: Rosthan Silva
+  description: DevOps na Prática
+  author:
+    say-hello: Olá, Sou <strong>Rosthan Silva</strong>
+    bio: Especialista em Sistemas <strong>Linux</strong>, <strong>DevOps</strong>, <strong>Arquitetura Cloud</strong>, e <strong>Microserviços</strong>. Aqui eu compartilho um pouco de conteúdo para ajudar na experiência técnica dos meus seguidores. 
+  search:
+    label: "Procure no Blog"
+    placeholder: "Digite aqui..." 
+en:
+  cookie:
+    message: "This website uses cookies to ensure you get the best experience."
+    allow: "Approve"
+    deny: "Reject"
+    link: "Learn more"
+  title: Rosthan Silva
+  description: DevOps in Practice
+  author:
+    say-hello: Hi, I'm <strong>Rosthan Silva</strong>
+    bio: Specialist in <strong>Linux Systems</strong>, <strong>DevOps</strong>, <strong>Cloud Architecture</strong>, and <strong>Microservices</strong>. Here I share content to help the technical experience of my followers.
+  en:
+  search:
+    label: "Search the Blog"
+    placeholder: "Type here..."
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/rosthanlinux # Add your Twitter handle

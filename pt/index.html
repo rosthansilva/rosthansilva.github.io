@@ -1,0 +1,34 @@
+---
+layout: default
+title: Home
+lang: pt
+ref: home
+permalink: /pt/
+pagination: 
+  enabled: true
+  collection: posts
+  filter_index: lang
+  filter_value: pt
+---
+
+{% include hero.html %}
+
+<div class="container">
+    <div class="row">
+        <div class="col col-12">
+            {% if paginator.posts.size > 0 %}
+                <h4 class="lates-title">Últimos Posts</h4>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+    {% for post in paginator.posts %}
+        {% include article-content.html %}
+    {% endfor %}
+    </div>
+</div>
+
+{% include pagination.html %}
